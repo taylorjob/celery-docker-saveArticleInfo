@@ -1,4 +1,4 @@
-# Celery Docker Example 
+# Celery Docker Example - Save Article Info
 
 This is a sample project to demonstrate how to run a Celery task inside a Django project in a Docker container. 
 
